@@ -1,5 +1,5 @@
 <?php 
-require('./api/zhihuDaily.php');
+
 // 检测微信接口验证的函数
 function checkSignature()
 {
@@ -83,26 +83,11 @@ function replyArticle($data) {
 // 	// replyMsg('东哥很帅！！！');
 // }
 
-// if(!empty($xml->Content)){
-// 	$data = array(
-// 				array('title'=>'图文消息，Hi，guys','url'=>'http://www.shudong.wang','picurl'=>'http://imgsrc.baidu.com/imgad/pic/item/267f9e2f07082838b5168c32b299a9014c08f1f9.jpg','desc'=>'it is a photo'),
-// 				array('title'=>'这是第二个图片','url'=>'http://www.shudong.wang','picurl'=>'https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=615871807,3571179663&fm=173&s=EC10119C9CB17D92161919420300C0B1&w=500&h=209&img.JPEG','desc'=>'it is a photo'),
-// 				array('title'=>'哈哈哈，这是一个图文消息'),
-// 			);
-// 	replyArticle($data);
-// }
-
-
-if ($xml->Content == '知乎日报') {
-	$DailTitle =  Daily::GetDailTitle();
-	$data  = [];
-	foreach ($DailTitle as $key => $value) {
-		$data[] = [
-					'title'=>$value['title'],
-					'url'=>'http://shudong.wang',
-					'picurl'=>$value['images'][0],
-					'desc'=>$value['title']
-				];
-	}
-	replyArticle(array_slice($data,1,8));
+if(!empty($xml->Content)){
+	$data = array(
+				array('title'=>'图文消息，Hi，guys','url'=>'http://www.shudong.wang','picurl'=>'http://imgsrc.baidu.com/imgad/pic/item/267f9e2f07082838b5168c32b299a9014c08f1f9.jpg','desc'=>'it is a photo'),
+				array('title'=>'这是第二个图片','url'=>'http://www.shudong.wang','picurl'=>'https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=615871807,3571179663&fm=173&s=EC10119C9CB17D92161919420300C0B1&w=500&h=209&img.JPEG','desc'=>'it is a photo'),
+				array('title'=>'哈哈哈，这是一个图文消息'),
+			);
+	replyArticle($data);
 }
