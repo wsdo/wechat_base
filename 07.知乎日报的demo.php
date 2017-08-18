@@ -1,7 +1,5 @@
 <?php 
-require_once('./api/Curl.php');
 require('./api/zhihuDaily.php');
-require('./api/moblieAreaName.php');
 // 检测微信接口验证的函数
 function checkSignature()
 {
@@ -95,30 +93,16 @@ function replyArticle($data) {
 // }
 
 
-// if ($xml->Content == '知乎日报') {
-// 	$DailTitle =  Daily::GetDailTitle();
-// 	$data  = [];
-// 	foreach ($DailTitle as $key => $value) {
-// 		$data[] = [
-// 					'title'=>$value['title'],
-// 					'url'=>'http://shudong.wang',
-// 					'picurl'=>$value['images'][0],
-// 					'desc'=>$value['title']
-// 				];
-// 	}
-// 	replyArticle(array_slice($data,1,8));
-// }
-
-if(!empty($xml->Content)){
-	$res = AreaName::getData($xml->Content);
-	// file_put_contents('wx.log', $res."\n\n", FILE_APPEND);
-	
-	$msg = "Hi，你的手机号归属地是".$res['sheng'].' 运营商是' .$res['yys'];
-	// $msg = "Hi，你的手机号归属地是".$res;
-	replyMsg($msg);
+if ($xml->Content == '知乎日报') {
+	$DailTitle =  Daily::GetDailTitle();
+	$data  = [];
+	foreach ($DailTitle as $key => $value) {
+		$data[] = [
+					'title'=>$value['title'],
+					'url'=>'http://shudong.wang',
+					'picurl'=>$value['images'][0],
+					'desc'=>$value['title']
+				];
+	}
+	replyArticle(array_slice($data,1,8));
 }
-
-// $res = AreaName::getData($xml->Content);
-// print_r($res);
-
-// echo '11';

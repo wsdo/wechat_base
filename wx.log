@@ -525,3 +525,715 @@ Qqq
 
 çŸ¥ä¹æ—¥æŠ¥
 
+å˜¿å˜¿
+
+çŸ¥ä¹æ—¥æŠ¥
+
+çš„å‘çœ‹ç”µè§†
+
+postæ•°æ®ä¸ºç©º8
+postæ•°æ®ä¸ºç©º8
+119
+
+12345678911
+
+13530445254
+
+1
+
+13934035555
+
+postæ•°æ®ä¸ºç©º8
+postæ•°æ®ä¸ºç©º8
+8208208820
+
+120
+
+postæ•°æ®ä¸ºç©º8
+111
+
+13838384380
+
+postæ•°æ®ä¸ºç©º8
+å¥½
+
+111
+
+12345678911
+
+13934035555
+
+13530445254
+
+15713586837
+
+18032067618
+
+13934035555
+
+
+
+18032067618
+
+
+
+18273703200
+
+
+
+111
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+ <body id="mainframe">
+<script type="text/javascript" src="//misc.360buyimg.com/lib/js/e/jquery-1.2.6.pack.js"></script>
+<script type="text/javascript" src="//misc.360buyimg.com/jdf/1.0.0/unit/base/1.0.0/base.js" charset="gb2312"></script>
+<div id="shortcut-2013">
+	<div class="w">
+		<ul class="fl lh">
+			<li class="fore1 ld"><b></b><a href="javascript:addToFavorite()" rel="nofollow">ÊÕ²Ø¾©¶«</a></li>
+		</ul>
+		<ul class="fr lh">
+			<li class="fore1" id="loginbar">ÄúºÃ£¡»¶Ó­À´µ½¾©¶«£¡<a href="javascript:login()">[µÇÂ¼]</a>&nbsp;<a href="javascript:regist()">[Ãâ·Ñ×¢²á]</a></li>
+			<li class="fore2 ld">
+				<s></s>
+				<a href="//order.jd.com" rel="nofollow">ÎÒµÄ¶©µ¥</a>
+			</li>
+			<li class="fore2-1 ld" id="jd-vip">
+				<s></s>
+				<a target="_blank" rel="nofollow" href="//vip.jd.com">»áÔ±¾ãÀÖ²¿</a>
+			</li>
+			<li class="fore3 ld menu" id="app-jd" data-widget="dropdown">
+				<s></s><i></i><span class="outline"></span><span class="blank"></span>
+				<a href="//app.jd.com/" target="_blank">ÊÖ»ú¾©¶«</a><b></b>
+			</li>
+			<li class="fore4 ld menu" id="biz-service" data-widget="dropdown">
+				<s></s>
+				<span class="outline"></span>
+				<span class="blank"></span>
+				¿Í»§·şÎñ
+				<b></b>
+				<div class="dd">
+					<div><a href="//help.jd.com/index.html" target="_blank">°ïÖúÖĞĞÄ</a></div>
+					<div><a href="//myjd.jd.com/repair/orderlist.action" target="_blank" rel="nofollow">ÊÛºó·şÎñ</a></div>
+					<div><a href="//chat.jd.com/jdchat/custom.action" target="_blank" rel="nofollow">ÔÚÏß¿Í·ş</a></div>
+					<div><a href="//myjd.jd.com/opinion/list.action" target="_blank" rel="nofollow">Í¶ËßÖĞĞÄ</a></div>
+					<div><a href="//www.jd.com/contact/service.html" target="_blank">¿Í·şÓÊÏä</a></div>
+				</div>
+			</li>
+			<li class="fore5 ld menu" id="site-nav" data-widget="dropdown">
+				<s></s>
+				<span class="outline"></span>
+				<span class="blank"></span>
+				ÍøÕ¾µ¼º½
+				<b></b>
+				<div class="dd lh">
+					<dl class="item fore1">
+						<dt>ÌØÉ«À¸Ä¿</dt>
+						<dd>
+							<div><a target="_blank" href="//mobile.jd.com/index.do">¾©¶«Í¨ĞÅ</a></div>
+							<div><a href="//jdstar.jd.com/" target="_blank">Ğ£Ô°Ö®ĞÇ</a></div>
+							<div><a target="_blank" href="//my.jd.com/personal/guess.html">ÎªÎÒÍÆ¼ö</a></div>
+							<div><a target="_blank" href="//shipingou.jd.com/">ÊÓÆµ¹ºÎï</a></div>
+							<div><a target="_blank" href="//club.jd.com/">¾©¶«ÉçÇø</a></div>
+							<div><a target="_blank" href="//read.jd.com/">ÔÚÏß¶ÁÊé</a></div>
+							<div><a target="_blank" href="//diy.jd.com/">×°»ú´óÊ¦</a></div>
+							<div><a target="_blank" href="//giftcard.jd.com/market/index.action">¾©¶«E¿¨</a></div>
+							<div><a href="//channel.jd.com/jiazhuang.html" target="_blank">¼Ò×°³Ç</a></div>
+                            <div><a href="//dapeigou.jd.com/" target="_blank">´îÅä¹º</a></div>
+                            <div><a href="//xihuan.jd.com/" target="_blank">ÎÒÏ²»¶</a></div>
+
+						</dd>
+					</dl>
+					<dl class="item fore2">
+						<dt>ÆóÒµ·şÎñ</dt>
+						<dd>
+							<div><a target="_blank" href="//giftcard.jd.com/company/index">ÆóÒµ¿Í»§</a></div>
+							<div><a target="_blank" href="//sale.jd.com/p10997.html">°ì¹«Ö±Í¨³µ</a></div>
+						</dd>
+					</dl>
+					<dl class="item fore3">
+						<dt>ÆìÏÂÍøÕ¾</dt>
+						<dd>
+							<div><a target="_blank" href="//en.jd.com/">English Site</a></div>
+						</dd>
+					</dl>
+				</div>
+			</li>
+		</ul>
+		<span class="clr"></span>
+	</div>
+</div><!--shortcut end--><div class="w">
+        <div id="logo_card" style="margin-right:10px;margin-bottom:10px;padding:8px 10px 0">
+            <a href="//www.jd.com/">
+                <img height="60" width="170" alt="¾©¶«ÉÌ³Ç" src="//misc.360buyimg.com/lib/img/e/logo-201305-b.png"></a></div>
+</div>
+
+
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/lib/skin/2012/base.css"/>
+                                            <link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/card/skin/card.yuebuzu.css"/>
+                    
+<div class="w box" id="card">
+    <div class="mt"><h2>ÊÖ»ú³äÖµ·şÎñ </h2><b></b></div>
+    <div class="mc">
+        <div class="m1">
+            <div class="success"><s></s>
+                <h4>
+                                                &nbsp;
+                                    </h4>
+
+                <div class="i-text-1">ÈçÓĞÒÉÎÊÇë²¦´ò¿Í·şÈÈÏß£º400-616-5500</div>
+                <div class="i-text">
+                    <input type="button" class="btn-3" value="·µ»Ø" onclick="javascript:history.back()" >
+                </div>
+
+
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="w">
+	<div id="footer-2013">
+		<div class="links"><a href="//www.jd.com/intro/about.aspx" target="_blank" rel="nofollow">¹ØÓÚÎÒÃÇ</a>|<a href="//www.jd.com/contact/" target="_blank" rel="nofollow">ÁªÏµÎÒÃÇ</a>|<a href="//zhaopin.jd.com/" target="_blank" rel="nofollow">ÈË²ÅÕĞÆ¸</a>|<a href="//www.jd.com/contact/joinin.aspx" target="_blank" rel="nofollow">ÉÌ¼ÒÈë×¤</a>|<a href="//sale.jd.com/act/y3surX7qpM.html" target="_blank" rel="nofollow">¹ã¸æ·şÎñ</a>|<a href="//app.jd.com/" target="_blank" rel="nofollow">ÊÖ»ú¾©¶«</a>|<a href="//club.jd.com/links.aspx" target="_blank">ÓÑÇéÁ´½Ó</a>|<a href="//cps.jd.com/" target="_blank">ÏúÊÛÁªÃË</a>|<a target="_blank" href="//club.jd.com/">¾©¶«ÉçÇø</a>|<a target="_blank" href="//gongyi.jd.com">¾©¶«¹«Òæ</a></div>
+		<div class="copyright">±±¾©ÊĞ¹«°²¾Ö³¯Ñô·Ö¾Ö±¸°¸±àºÅ110105014669&nbsp;&nbsp;|&nbsp;&nbsp;¾©ICPÖ¤070359ºÅ&nbsp;&nbsp;|&nbsp;&nbsp;»¥ÁªÍøÒ©Æ·ĞÅÏ¢·şÎñ×Ê¸ñÖ¤±àºÅ(¾©)-·Ç¾­ÓªĞÔ-2011-0034<br><a target="_blank" href="//misc.360buyimg.com/skin/df/i/com/f_music.jpg" rel="nofollow">ÒôÏñÖÆÆ·¾­ÓªĞí¿ÉÖ¤ËÕËŞÅú005ºÅ</a>&nbsp;&nbsp;|&nbsp;&nbsp;³ö°æÎï¾­ÓªĞí¿ÉÖ¤±àºÅĞÂ³ö·¢(ËÕ)Åú×ÖµÚN-012ºÅ&nbsp;&nbsp;|&nbsp;&nbsp;»¥ÁªÍø³ö°æĞí¿ÉÖ¤±àºÅĞÂ³öÍøÖ¤(¾©)×Ö150ºÅ<br><a target="_blank" href="//misc.360buyimg.com/wz/wlwhjyxkz.jpg">ÍøÂçÎÄ»¯¾­ÓªĞí¿ÉÖ¤¾©ÍøÎÄ[2011]0168-061ºÅ</a>&nbsp;&nbsp;Copyright&nbsp;&copy;&nbsp;2004-2014&nbsp;&nbsp;¾©¶«JD.com&nbsp;°æÈ¨ËùÓĞ<br />¾©¶«ÆìÏÂÍøÕ¾£º<a target="_blank" href="//en.jd.com/">English Site</a></div>
+		<div class="authentication"><a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007080200026" target="_blank" rel="nofollow"><img data-lazyload="//img10.360buyimg.com/da/20110329/108_40_zZOKnl.gif" width="108" height="40" alt="¾­ÓªĞÔÍøÕ¾±¸°¸ÖĞĞÄ"></a><script type="text/JavaScript">function CNNIC_change(eleId){var str= document.getElementById(eleId).href;var str1 =str.substring(0,(str.length-6));str1+=CNNIC_RndNum(6); document.getElementById(eleId).href=str1;}function CNNIC_RndNum(k){var rnd=""; for (var i=0;i < k;i++) rnd+=Math.floor(Math.random()*10); return rnd;}</script><a href="https://ss.cnnic.cn/verifyseal.dll?sn=2008070300100000031&ct=df&pa=294005" tabindex="-1" id="urlknet" target="_blank" rel="nofollow"> <img alt="&#x53EF;&#x4FE1;&#x7F51;&#x7AD9;" name="CNNIC_seal" border="true" data-lazyload="//img11.360buyimg.com/da/g8/M03/0C/0E/rBEHaFCFC5QIAAAAAAASVQX9RAYAACb2wHUV1kAABJt760.gif" width="108" height="40" oncontextmenu="return false;" onclick="CNNIC_change('urlknet')" /></a><a href="http://about.58.com/fqz/index.html" target="_blank" rel="nofollow"><img data-lazyload="//img12.360buyimg.com/da/g5/M02/0D/17/rBEIDE_nzcIIAAAAAAB30mYXo5QAACrhACj22IAAHfq378.png" width="108" height="40" alt="³¯ÑôÍøÂç¾¯²ì"></a><a href="https://search.szfw.org/cert/l/CX20120111001803001836" target="_blank" rel="nofollow"><img data-lazyload="//img13.360buyimg.com/da/20120221/112_40_WvArIl.png" width="112" height="40"></a></div>
+	</div>
+</div>
+ <script type="text/javascript" src="//misc.360buyimg.com/jdf/1.0.0/unit/libPath/1.0.0/libPath.js"></script>
+<script type="text/javascript" src="//wl.jd.com/wl.js"></script>
+</body>
+</html>
+
+ 
+
+13838384380
+
+{"area":"7","areaName":"ºÓÄÏ","providerName":"ÒÆ¶¯","provider":1}
+
+120
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+ <body id="mainframe">
+<script type="text/javascript" src="//misc.360buyimg.com/lib/js/e/jquery-1.2.6.pack.js"></script>
+<script type="text/javascript" src="//misc.360buyimg.com/jdf/1.0.0/unit/base/1.0.0/base.js" charset="gb2312"></script>
+<div id="shortcut-2013">
+	<div class="w">
+		<ul class="fl lh">
+			<li class="fore1 ld"><b></b><a href="javascript:addToFavorite()" rel="nofollow">ÊÕ²Ø¾©¶«</a></li>
+		</ul>
+		<ul class="fr lh">
+			<li class="fore1" id="loginbar">ÄúºÃ£¡»¶Ó­À´µ½¾©¶«£¡<a href="javascript:login()">[µÇÂ¼]</a>&nbsp;<a href="javascript:regist()">[Ãâ·Ñ×¢²á]</a></li>
+			<li class="fore2 ld">
+				<s></s>
+				<a href="//order.jd.com" rel="nofollow">ÎÒµÄ¶©µ¥</a>
+			</li>
+			<li class="fore2-1 ld" id="jd-vip">
+				<s></s>
+				<a target="_blank" rel="nofollow" href="//vip.jd.com">»áÔ±¾ãÀÖ²¿</a>
+			</li>
+			<li class="fore3 ld menu" id="app-jd" data-widget="dropdown">
+				<s></s><i></i><span class="outline"></span><span class="blank"></span>
+				<a href="//app.jd.com/" target="_blank">ÊÖ»ú¾©¶«</a><b></b>
+			</li>
+			<li class="fore4 ld menu" id="biz-service" data-widget="dropdown">
+				<s></s>
+				<span class="outline"></span>
+				<span class="blank"></span>
+				¿Í»§·şÎñ
+				<b></b>
+				<div class="dd">
+					<div><a href="//help.jd.com/index.html" target="_blank">°ïÖúÖĞĞÄ</a></div>
+					<div><a href="//myjd.jd.com/repair/orderlist.action" target="_blank" rel="nofollow">ÊÛºó·şÎñ</a></div>
+					<div><a href="//chat.jd.com/jdchat/custom.action" target="_blank" rel="nofollow">ÔÚÏß¿Í·ş</a></div>
+					<div><a href="//myjd.jd.com/opinion/list.action" target="_blank" rel="nofollow">Í¶ËßÖĞĞÄ</a></div>
+					<div><a href="//www.jd.com/contact/service.html" target="_blank">¿Í·şÓÊÏä</a></div>
+				</div>
+			</li>
+			<li class="fore5 ld menu" id="site-nav" data-widget="dropdown">
+				<s></s>
+				<span class="outline"></span>
+				<span class="blank"></span>
+				ÍøÕ¾µ¼º½
+				<b></b>
+				<div class="dd lh">
+					<dl class="item fore1">
+						<dt>ÌØÉ«À¸Ä¿</dt>
+						<dd>
+							<div><a target="_blank" href="//mobile.jd.com/index.do">¾©¶«Í¨ĞÅ</a></div>
+							<div><a href="//jdstar.jd.com/" target="_blank">Ğ£Ô°Ö®ĞÇ</a></div>
+							<div><a target="_blank" href="//my.jd.com/personal/guess.html">ÎªÎÒÍÆ¼ö</a></div>
+							<div><a target="_blank" href="//shipingou.jd.com/">ÊÓÆµ¹ºÎï</a></div>
+							<div><a target="_blank" href="//club.jd.com/">¾©¶«ÉçÇø</a></div>
+							<div><a target="_blank" href="//read.jd.com/">ÔÚÏß¶ÁÊé</a></div>
+							<div><a target="_blank" href="//diy.jd.com/">×°»ú´óÊ¦</a></div>
+							<div><a target="_blank" href="//giftcard.jd.com/market/index.action">¾©¶«E¿¨</a></div>
+							<div><a href="//channel.jd.com/jiazhuang.html" target="_blank">¼Ò×°³Ç</a></div>
+                            <div><a href="//dapeigou.jd.com/" target="_blank">´îÅä¹º</a></div>
+                            <div><a href="//xihuan.jd.com/" target="_blank">ÎÒÏ²»¶</a></div>
+
+						</dd>
+					</dl>
+					<dl class="item fore2">
+						<dt>ÆóÒµ·şÎñ</dt>
+						<dd>
+							<div><a target="_blank" href="//giftcard.jd.com/company/index">ÆóÒµ¿Í»§</a></div>
+							<div><a target="_blank" href="//sale.jd.com/p10997.html">°ì¹«Ö±Í¨³µ</a></div>
+						</dd>
+					</dl>
+					<dl class="item fore3">
+						<dt>ÆìÏÂÍøÕ¾</dt>
+						<dd>
+							<div><a target="_blank" href="//en.jd.com/">English Site</a></div>
+						</dd>
+					</dl>
+				</div>
+			</li>
+		</ul>
+		<span class="clr"></span>
+	</div>
+</div><!--shortcut end--><div class="w">
+        <div id="logo_card" style="margin-right:10px;margin-bottom:10px;padding:8px 10px 0">
+            <a href="//www.jd.com/">
+                <img height="60" width="170" alt="¾©¶«ÉÌ³Ç" src="//misc.360buyimg.com/lib/img/e/logo-201305-b.png"></a></div>
+</div>
+
+
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/lib/skin/2012/base.css"/>
+                                            <link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/card/skin/card.yuebuzu.css"/>
+                    
+<div class="w box" id="card">
+    <div class="mt"><h2>ÊÖ»ú³äÖµ·şÎñ </h2><b></b></div>
+    <div class="mc">
+        <div class="m1">
+            <div class="success"><s></s>
+                <h4>
+                                                &nbsp;
+                                    </h4>
+
+                <div class="i-text-1">ÈçÓĞÒÉÎÊÇë²¦´ò¿Í·şÈÈÏß£º400-616-5500</div>
+                <div class="i-text">
+                    <input type="button" class="btn-3" value="·µ»Ø" onclick="javascript:history.back()" >
+                </div>
+
+
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="w">
+	<div id="footer-2013">
+		<div class="links"><a href="//www.jd.com/intro/about.aspx" target="_blank" rel="nofollow">¹ØÓÚÎÒÃÇ</a>|<a href="//www.jd.com/contact/" target="_blank" rel="nofollow">ÁªÏµÎÒÃÇ</a>|<a href="//zhaopin.jd.com/" target="_blank" rel="nofollow">ÈË²ÅÕĞÆ¸</a>|<a href="//www.jd.com/contact/joinin.aspx" target="_blank" rel="nofollow">ÉÌ¼ÒÈë×¤</a>|<a href="//sale.jd.com/act/y3surX7qpM.html" target="_blank" rel="nofollow">¹ã¸æ·şÎñ</a>|<a href="//app.jd.com/" target="_blank" rel="nofollow">ÊÖ»ú¾©¶«</a>|<a href="//club.jd.com/links.aspx" target="_blank">ÓÑÇéÁ´½Ó</a>|<a href="//cps.jd.com/" target="_blank">ÏúÊÛÁªÃË</a>|<a target="_blank" href="//club.jd.com/">¾©¶«ÉçÇø</a>|<a target="_blank" href="//gongyi.jd.com">¾©¶«¹«Òæ</a></div>
+		<div class="copyright">±±¾©ÊĞ¹«°²¾Ö³¯Ñô·Ö¾Ö±¸°¸±àºÅ110105014669&nbsp;&nbsp;|&nbsp;&nbsp;¾©ICPÖ¤070359ºÅ&nbsp;&nbsp;|&nbsp;&nbsp;»¥ÁªÍøÒ©Æ·ĞÅÏ¢·şÎñ×Ê¸ñÖ¤±àºÅ(¾©)-·Ç¾­ÓªĞÔ-2011-0034<br><a target="_blank" href="//misc.360buyimg.com/skin/df/i/com/f_music.jpg" rel="nofollow">ÒôÏñÖÆÆ·¾­ÓªĞí¿ÉÖ¤ËÕËŞÅú005ºÅ</a>&nbsp;&nbsp;|&nbsp;&nbsp;³ö°æÎï¾­ÓªĞí¿ÉÖ¤±àºÅĞÂ³ö·¢(ËÕ)Åú×ÖµÚN-012ºÅ&nbsp;&nbsp;|&nbsp;&nbsp;»¥ÁªÍø³ö°æĞí¿ÉÖ¤±àºÅĞÂ³öÍøÖ¤(¾©)×Ö150ºÅ<br><a target="_blank" href="//misc.360buyimg.com/wz/wlwhjyxkz.jpg">ÍøÂçÎÄ»¯¾­ÓªĞí¿ÉÖ¤¾©ÍøÎÄ[2011]0168-061ºÅ</a>&nbsp;&nbsp;Copyright&nbsp;&copy;&nbsp;2004-2014&nbsp;&nbsp;¾©¶«JD.com&nbsp;°æÈ¨ËùÓĞ<br />¾©¶«ÆìÏÂÍøÕ¾£º<a target="_blank" href="//en.jd.com/">English Site</a></div>
+		<div class="authentication"><a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007080200026" target="_blank" rel="nofollow"><img data-lazyload="//img10.360buyimg.com/da/20110329/108_40_zZOKnl.gif" width="108" height="40" alt="¾­ÓªĞÔÍøÕ¾±¸°¸ÖĞĞÄ"></a><script type="text/JavaScript">function CNNIC_change(eleId){var str= document.getElementById(eleId).href;var str1 =str.substring(0,(str.length-6));str1+=CNNIC_RndNum(6); document.getElementById(eleId).href=str1;}function CNNIC_RndNum(k){var rnd=""; for (var i=0;i < k;i++) rnd+=Math.floor(Math.random()*10); return rnd;}</script><a href="https://ss.cnnic.cn/verifyseal.dll?sn=2008070300100000031&ct=df&pa=294005" tabindex="-1" id="urlknet" target="_blank" rel="nofollow"> <img alt="&#x53EF;&#x4FE1;&#x7F51;&#x7AD9;" name="CNNIC_seal" border="true" data-lazyload="//img11.360buyimg.com/da/g8/M03/0C/0E/rBEHaFCFC5QIAAAAAAASVQX9RAYAACb2wHUV1kAABJt760.gif" width="108" height="40" oncontextmenu="return false;" onclick="CNNIC_change('urlknet')" /></a><a href="http://about.58.com/fqz/index.html" target="_blank" rel="nofollow"><img data-lazyload="//img12.360buyimg.com/da/g5/M02/0D/17/rBEIDE_nzcIIAAAAAAB30mYXo5QAACrhACj22IAAHfq378.png" width="108" height="40" alt="³¯ÑôÍøÂç¾¯²ì"></a><a href="https://search.szfw.org/cert/l/CX20120111001803001836" target="_blank" rel="nofollow"><img data-lazyload="//img13.360buyimg.com/da/20120221/112_40_WvArIl.png" width="112" height="40"></a></div>
+	</div>
+</div>
+ <script type="text/javascript" src="//misc.360buyimg.com/jdf/1.0.0/unit/libPath/1.0.0/libPath.js"></script>
+<script type="text/javascript" src="//wl.jd.com/wl.js"></script>
+</body>
+</html>
+
+ 
+
+18032067618
+
+{"area":"5","areaName":"ºÓ±±","providerName":"µçĞÅ","provider":2}
+
+120
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+ <body id="mainframe">
+<script type="text/javascript" src="//misc.360buyimg.com/lib/js/e/jquery-1.2.6.pack.js"></script>
+<script type="text/javascript" src="//misc.360buyimg.com/jdf/1.0.0/unit/base/1.0.0/base.js" charset="gb2312"></script>
+<div id="shortcut-2013">
+	<div class="w">
+		<ul class="fl lh">
+			<li class="fore1 ld"><b></b><a href="javascript:addToFavorite()" rel="nofollow">ÊÕ²Ø¾©¶«</a></li>
+		</ul>
+		<ul class="fr lh">
+			<li class="fore1" id="loginbar">ÄúºÃ£¡»¶Ó­À´µ½¾©¶«£¡<a href="javascript:login()">[µÇÂ¼]</a>&nbsp;<a href="javascript:regist()">[Ãâ·Ñ×¢²á]</a></li>
+			<li class="fore2 ld">
+				<s></s>
+				<a href="//order.jd.com" rel="nofollow">ÎÒµÄ¶©µ¥</a>
+			</li>
+			<li class="fore2-1 ld" id="jd-vip">
+				<s></s>
+				<a target="_blank" rel="nofollow" href="//vip.jd.com">»áÔ±¾ãÀÖ²¿</a>
+			</li>
+			<li class="fore3 ld menu" id="app-jd" data-widget="dropdown">
+				<s></s><i></i><span class="outline"></span><span class="blank"></span>
+				<a href="//app.jd.com/" target="_blank">ÊÖ»ú¾©¶«</a><b></b>
+			</li>
+			<li class="fore4 ld menu" id="biz-service" data-widget="dropdown">
+				<s></s>
+				<span class="outline"></span>
+				<span class="blank"></span>
+				¿Í»§·şÎñ
+				<b></b>
+				<div class="dd">
+					<div><a href="//help.jd.com/index.html" target="_blank">°ïÖúÖĞĞÄ</a></div>
+					<div><a href="//myjd.jd.com/repair/orderlist.action" target="_blank" rel="nofollow">ÊÛºó·şÎñ</a></div>
+					<div><a href="//chat.jd.com/jdchat/custom.action" target="_blank" rel="nofollow">ÔÚÏß¿Í·ş</a></div>
+					<div><a href="//myjd.jd.com/opinion/list.action" target="_blank" rel="nofollow">Í¶ËßÖĞĞÄ</a></div>
+					<div><a href="//www.jd.com/contact/service.html" target="_blank">¿Í·şÓÊÏä</a></div>
+				</div>
+			</li>
+			<li class="fore5 ld menu" id="site-nav" data-widget="dropdown">
+				<s></s>
+				<span class="outline"></span>
+				<span class="blank"></span>
+				ÍøÕ¾µ¼º½
+				<b></b>
+				<div class="dd lh">
+					<dl class="item fore1">
+						<dt>ÌØÉ«À¸Ä¿</dt>
+						<dd>
+							<div><a target="_blank" href="//mobile.jd.com/index.do">¾©¶«Í¨ĞÅ</a></div>
+							<div><a href="//jdstar.jd.com/" target="_blank">Ğ£Ô°Ö®ĞÇ</a></div>
+							<div><a target="_blank" href="//my.jd.com/personal/guess.html">ÎªÎÒÍÆ¼ö</a></div>
+							<div><a target="_blank" href="//shipingou.jd.com/">ÊÓÆµ¹ºÎï</a></div>
+							<div><a target="_blank" href="//club.jd.com/">¾©¶«ÉçÇø</a></div>
+							<div><a target="_blank" href="//read.jd.com/">ÔÚÏß¶ÁÊé</a></div>
+							<div><a target="_blank" href="//diy.jd.com/">×°»ú´óÊ¦</a></div>
+							<div><a target="_blank" href="//giftcard.jd.com/market/index.action">¾©¶«E¿¨</a></div>
+							<div><a href="//channel.jd.com/jiazhuang.html" target="_blank">¼Ò×°³Ç</a></div>
+                            <div><a href="//dapeigou.jd.com/" target="_blank">´îÅä¹º</a></div>
+                            <div><a href="//xihuan.jd.com/" target="_blank">ÎÒÏ²»¶</a></div>
+
+						</dd>
+					</dl>
+					<dl class="item fore2">
+						<dt>ÆóÒµ·şÎñ</dt>
+						<dd>
+							<div><a target="_blank" href="//giftcard.jd.com/company/index">ÆóÒµ¿Í»§</a></div>
+							<div><a target="_blank" href="//sale.jd.com/p10997.html">°ì¹«Ö±Í¨³µ</a></div>
+						</dd>
+					</dl>
+					<dl class="item fore3">
+						<dt>ÆìÏÂÍøÕ¾</dt>
+						<dd>
+							<div><a target="_blank" href="//en.jd.com/">English Site</a></div>
+						</dd>
+					</dl>
+				</div>
+			</li>
+		</ul>
+		<span class="clr"></span>
+	</div>
+</div><!--shortcut end--><div class="w">
+        <div id="logo_card" style="margin-right:10px;margin-bottom:10px;padding:8px 10px 0">
+            <a href="//www.jd.com/">
+                <img height="60" width="170" alt="¾©¶«ÉÌ³Ç" src="//misc.360buyimg.com/lib/img/e/logo-201305-b.png"></a></div>
+</div>
+
+
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/lib/skin/2012/base.css"/>
+                                            <link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/card/skin/card.yuebuzu.css"/>
+                    
+<div class="w box" id="card">
+    <div class="mt"><h2>ÊÖ»ú³äÖµ·şÎñ </h2><b></b></div>
+    <div class="mc">
+        <div class="m1">
+            <div class="success"><s></s>
+                <h4>
+                                                &nbsp;
+                                    </h4>
+
+                <div class="i-text-1">ÈçÓĞÒÉÎÊÇë²¦´ò¿Í·şÈÈÏß£º400-616-5500</div>
+                <div class="i-text">
+                    <input type="button" class="btn-3" value="·µ»Ø" onclick="javascript:history.back()" >
+                </div>
+
+
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="w">
+	<div id="footer-2013">
+		<div class="links"><a href="//www.jd.com/intro/about.aspx" target="_blank" rel="nofollow">¹ØÓÚÎÒÃÇ</a>|<a href="//www.jd.com/contact/" target="_blank" rel="nofollow">ÁªÏµÎÒÃÇ</a>|<a href="//zhaopin.jd.com/" target="_blank" rel="nofollow">ÈË²ÅÕĞÆ¸</a>|<a href="//www.jd.com/contact/joinin.aspx" target="_blank" rel="nofollow">ÉÌ¼ÒÈë×¤</a>|<a href="//sale.jd.com/act/y3surX7qpM.html" target="_blank" rel="nofollow">¹ã¸æ·şÎñ</a>|<a href="//app.jd.com/" target="_blank" rel="nofollow">ÊÖ»ú¾©¶«</a>|<a href="//club.jd.com/links.aspx" target="_blank">ÓÑÇéÁ´½Ó</a>|<a href="//cps.jd.com/" target="_blank">ÏúÊÛÁªÃË</a>|<a target="_blank" href="//club.jd.com/">¾©¶«ÉçÇø</a>|<a target="_blank" href="//gongyi.jd.com">¾©¶«¹«Òæ</a></div>
+		<div class="copyright">±±¾©ÊĞ¹«°²¾Ö³¯Ñô·Ö¾Ö±¸°¸±àºÅ110105014669&nbsp;&nbsp;|&nbsp;&nbsp;¾©ICPÖ¤070359ºÅ&nbsp;&nbsp;|&nbsp;&nbsp;»¥ÁªÍøÒ©Æ·ĞÅÏ¢·şÎñ×Ê¸ñÖ¤±àºÅ(¾©)-·Ç¾­ÓªĞÔ-2011-0034<br><a target="_blank" href="//misc.360buyimg.com/skin/df/i/com/f_music.jpg" rel="nofollow">ÒôÏñÖÆÆ·¾­ÓªĞí¿ÉÖ¤ËÕËŞÅú005ºÅ</a>&nbsp;&nbsp;|&nbsp;&nbsp;³ö°æÎï¾­ÓªĞí¿ÉÖ¤±àºÅĞÂ³ö·¢(ËÕ)Åú×ÖµÚN-012ºÅ&nbsp;&nbsp;|&nbsp;&nbsp;»¥ÁªÍø³ö°æĞí¿ÉÖ¤±àºÅĞÂ³öÍøÖ¤(¾©)×Ö150ºÅ<br><a target="_blank" href="//misc.360buyimg.com/wz/wlwhjyxkz.jpg">ÍøÂçÎÄ»¯¾­ÓªĞí¿ÉÖ¤¾©ÍøÎÄ[2011]0168-061ºÅ</a>&nbsp;&nbsp;Copyright&nbsp;&copy;&nbsp;2004-2014&nbsp;&nbsp;¾©¶«JD.com&nbsp;°æÈ¨ËùÓĞ<br />¾©¶«ÆìÏÂÍøÕ¾£º<a target="_blank" href="//en.jd.com/">English Site</a></div>
+		<div class="authentication"><a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007080200026" target="_blank" rel="nofollow"><img data-lazyload="//img10.360buyimg.com/da/20110329/108_40_zZOKnl.gif" width="108" height="40" alt="¾­ÓªĞÔÍøÕ¾±¸°¸ÖĞĞÄ"></a><script type="text/JavaScript">function CNNIC_change(eleId){var str= document.getElementById(eleId).href;var str1 =str.substring(0,(str.length-6));str1+=CNNIC_RndNum(6); document.getElementById(eleId).href=str1;}function CNNIC_RndNum(k){var rnd=""; for (var i=0;i < k;i++) rnd+=Math.floor(Math.random()*10); return rnd;}</script><a href="https://ss.cnnic.cn/verifyseal.dll?sn=2008070300100000031&ct=df&pa=294005" tabindex="-1" id="urlknet" target="_blank" rel="nofollow"> <img alt="&#x53EF;&#x4FE1;&#x7F51;&#x7AD9;" name="CNNIC_seal" border="true" data-lazyload="//img11.360buyimg.com/da/g8/M03/0C/0E/rBEHaFCFC5QIAAAAAAASVQX9RAYAACb2wHUV1kAABJt760.gif" width="108" height="40" oncontextmenu="return false;" onclick="CNNIC_change('urlknet')" /></a><a href="http://about.58.com/fqz/index.html" target="_blank" rel="nofollow"><img data-lazyload="//img12.360buyimg.com/da/g5/M02/0D/17/rBEIDE_nzcIIAAAAAAB30mYXo5QAACrhACj22IAAHfq378.png" width="108" height="40" alt="³¯ÑôÍøÂç¾¯²ì"></a><a href="https://search.szfw.org/cert/l/CX20120111001803001836" target="_blank" rel="nofollow"><img data-lazyload="//img13.360buyimg.com/da/20120221/112_40_WvArIl.png" width="112" height="40"></a></div>
+	</div>
+</div>
+ <script type="text/javascript" src="//misc.360buyimg.com/jdf/1.0.0/unit/libPath/1.0.0/libPath.js"></script>
+<script type="text/javascript" src="//wl.jd.com/wl.js"></script>
+</body>
+</html>
+
+ 
+
+13934035555
+
+{"area":"6","areaName":"É½Î÷","providerName":"ÒÆ¶¯","provider":1}
+
+13530445254
+
+{"area":"19","areaName":"¹ã¶«","providerName":"ÒÆ¶¯","provider":1}
+
+13508433039
+
+{"area":"18","areaName":"ºşÄÏ","providerName":"ÒÆ¶¯","provider":1}
+
+110
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+ <body id="mainframe">
+<script type="text/javascript" src="//misc.360buyimg.com/lib/js/e/jquery-1.2.6.pack.js"></script>
+<script type="text/javascript" src="//misc.360buyimg.com/jdf/1.0.0/unit/base/1.0.0/base.js" charset="gb2312"></script>
+<div id="shortcut-2013">
+	<div class="w">
+		<ul class="fl lh">
+			<li class="fore1 ld"><b></b><a href="javascript:addToFavorite()" rel="nofollow">ÊÕ²Ø¾©¶«</a></li>
+		</ul>
+		<ul class="fr lh">
+			<li class="fore1" id="loginbar">ÄúºÃ£¡»¶Ó­À´µ½¾©¶«£¡<a href="javascript:login()">[µÇÂ¼]</a>&nbsp;<a href="javascript:regist()">[Ãâ·Ñ×¢²á]</a></li>
+			<li class="fore2 ld">
+				<s></s>
+				<a href="//order.jd.com" rel="nofollow">ÎÒµÄ¶©µ¥</a>
+			</li>
+			<li class="fore2-1 ld" id="jd-vip">
+				<s></s>
+				<a target="_blank" rel="nofollow" href="//vip.jd.com">»áÔ±¾ãÀÖ²¿</a>
+			</li>
+			<li class="fore3 ld menu" id="app-jd" data-widget="dropdown">
+				<s></s><i></i><span class="outline"></span><span class="blank"></span>
+				<a href="//app.jd.com/" target="_blank">ÊÖ»ú¾©¶«</a><b></b>
+			</li>
+			<li class="fore4 ld menu" id="biz-service" data-widget="dropdown">
+				<s></s>
+				<span class="outline"></span>
+				<span class="blank"></span>
+				¿Í»§·şÎñ
+				<b></b>
+				<div class="dd">
+					<div><a href="//help.jd.com/index.html" target="_blank">°ïÖúÖĞĞÄ</a></div>
+					<div><a href="//myjd.jd.com/repair/orderlist.action" target="_blank" rel="nofollow">ÊÛºó·şÎñ</a></div>
+					<div><a href="//chat.jd.com/jdchat/custom.action" target="_blank" rel="nofollow">ÔÚÏß¿Í·ş</a></div>
+					<div><a href="//myjd.jd.com/opinion/list.action" target="_blank" rel="nofollow">Í¶ËßÖĞĞÄ</a></div>
+					<div><a href="//www.jd.com/contact/service.html" target="_blank">¿Í·şÓÊÏä</a></div>
+				</div>
+			</li>
+			<li class="fore5 ld menu" id="site-nav" data-widget="dropdown">
+				<s></s>
+				<span class="outline"></span>
+				<span class="blank"></span>
+				ÍøÕ¾µ¼º½
+				<b></b>
+				<div class="dd lh">
+					<dl class="item fore1">
+						<dt>ÌØÉ«À¸Ä¿</dt>
+						<dd>
+							<div><a target="_blank" href="//mobile.jd.com/index.do">¾©¶«Í¨ĞÅ</a></div>
+							<div><a href="//jdstar.jd.com/" target="_blank">Ğ£Ô°Ö®ĞÇ</a></div>
+							<div><a target="_blank" href="//my.jd.com/personal/guess.html">ÎªÎÒÍÆ¼ö</a></div>
+							<div><a target="_blank" href="//shipingou.jd.com/">ÊÓÆµ¹ºÎï</a></div>
+							<div><a target="_blank" href="//club.jd.com/">¾©¶«ÉçÇø</a></div>
+							<div><a target="_blank" href="//read.jd.com/">ÔÚÏß¶ÁÊé</a></div>
+							<div><a target="_blank" href="//diy.jd.com/">×°»ú´óÊ¦</a></div>
+							<div><a target="_blank" href="//giftcard.jd.com/market/index.action">¾©¶«E¿¨</a></div>
+							<div><a href="//channel.jd.com/jiazhuang.html" target="_blank">¼Ò×°³Ç</a></div>
+                            <div><a href="//dapeigou.jd.com/" target="_blank">´îÅä¹º</a></div>
+                            <div><a href="//xihuan.jd.com/" target="_blank">ÎÒÏ²»¶</a></div>
+
+						</dd>
+					</dl>
+					<dl class="item fore2">
+						<dt>ÆóÒµ·şÎñ</dt>
+						<dd>
+							<div><a target="_blank" href="//giftcard.jd.com/company/index">ÆóÒµ¿Í»§</a></div>
+							<div><a target="_blank" href="//sale.jd.com/p10997.html">°ì¹«Ö±Í¨³µ</a></div>
+						</dd>
+					</dl>
+					<dl class="item fore3">
+						<dt>ÆìÏÂÍøÕ¾</dt>
+						<dd>
+							<div><a target="_blank" href="//en.jd.com/">English Site</a></div>
+						</dd>
+					</dl>
+				</div>
+			</li>
+		</ul>
+		<span class="clr"></span>
+	</div>
+</div><!--shortcut end--><div class="w">
+        <div id="logo_card" style="margin-right:10px;margin-bottom:10px;padding:8px 10px 0">
+            <a href="//www.jd.com/">
+                <img height="60" width="170" alt="¾©¶«ÉÌ³Ç" src="//misc.360buyimg.com/lib/img/e/logo-201305-b.png"></a></div>
+</div>
+
+
+<link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/lib/skin/2012/base.css"/>
+                                            <link type="text/css" rel="stylesheet" href="//misc.360buyimg.com/card/skin/card.yuebuzu.css"/>
+                    
+<div class="w box" id="card">
+    <div class="mt"><h2>ÊÖ»ú³äÖµ·şÎñ </h2><b></b></div>
+    <div class="mc">
+        <div class="m1">
+            <div class="success"><s></s>
+                <h4>
+                                                &nbsp;
+                                    </h4>
+
+                <div class="i-text-1">ÈçÓĞÒÉÎÊÇë²¦´ò¿Í·şÈÈÏß£º400-616-5500</div>
+                <div class="i-text">
+                    <input type="button" class="btn-3" value="·µ»Ø" onclick="javascript:history.back()" >
+                </div>
+
+
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="w">
+	<div id="footer-2013">
+		<div class="links"><a href="//www.jd.com/intro/about.aspx" target="_blank" rel="nofollow">¹ØÓÚÎÒÃÇ</a>|<a href="//www.jd.com/contact/" target="_blank" rel="nofollow">ÁªÏµÎÒÃÇ</a>|<a href="//zhaopin.jd.com/" target="_blank" rel="nofollow">ÈË²ÅÕĞÆ¸</a>|<a href="//www.jd.com/contact/joinin.aspx" target="_blank" rel="nofollow">ÉÌ¼ÒÈë×¤</a>|<a href="//sale.jd.com/act/y3surX7qpM.html" target="_blank" rel="nofollow">¹ã¸æ·şÎñ</a>|<a href="//app.jd.com/" target="_blank" rel="nofollow">ÊÖ»ú¾©¶«</a>|<a href="//club.jd.com/links.aspx" target="_blank">ÓÑÇéÁ´½Ó</a>|<a href="//cps.jd.com/" target="_blank">ÏúÊÛÁªÃË</a>|<a target="_blank" href="//club.jd.com/">¾©¶«ÉçÇø</a>|<a target="_blank" href="//gongyi.jd.com">¾©¶«¹«Òæ</a></div>
+		<div class="copyright">±±¾©ÊĞ¹«°²¾Ö³¯Ñô·Ö¾Ö±¸°¸±àºÅ110105014669&nbsp;&nbsp;|&nbsp;&nbsp;¾©ICPÖ¤070359ºÅ&nbsp;&nbsp;|&nbsp;&nbsp;»¥ÁªÍøÒ©Æ·ĞÅÏ¢·şÎñ×Ê¸ñÖ¤±àºÅ(¾©)-·Ç¾­ÓªĞÔ-2011-0034<br><a target="_blank" href="//misc.360buyimg.com/skin/df/i/com/f_music.jpg" rel="nofollow">ÒôÏñÖÆÆ·¾­ÓªĞí¿ÉÖ¤ËÕËŞÅú005ºÅ</a>&nbsp;&nbsp;|&nbsp;&nbsp;³ö°æÎï¾­ÓªĞí¿ÉÖ¤±àºÅĞÂ³ö·¢(ËÕ)Åú×ÖµÚN-012ºÅ&nbsp;&nbsp;|&nbsp;&nbsp;»¥ÁªÍø³ö°æĞí¿ÉÖ¤±àºÅĞÂ³öÍøÖ¤(¾©)×Ö150ºÅ<br><a target="_blank" href="//misc.360buyimg.com/wz/wlwhjyxkz.jpg">ÍøÂçÎÄ»¯¾­ÓªĞí¿ÉÖ¤¾©ÍøÎÄ[2011]0168-061ºÅ</a>&nbsp;&nbsp;Copyright&nbsp;&copy;&nbsp;2004-2014&nbsp;&nbsp;¾©¶«JD.com&nbsp;°æÈ¨ËùÓĞ<br />¾©¶«ÆìÏÂÍøÕ¾£º<a target="_blank" href="//en.jd.com/">English Site</a></div>
+		<div class="authentication"><a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007080200026" target="_blank" rel="nofollow"><img data-lazyload="//img10.360buyimg.com/da/20110329/108_40_zZOKnl.gif" width="108" height="40" alt="¾­ÓªĞÔÍøÕ¾±¸°¸ÖĞĞÄ"></a><script type="text/JavaScript">function CNNIC_change(eleId){var str= document.getElementById(eleId).href;var str1 =str.substring(0,(str.length-6));str1+=CNNIC_RndNum(6); document.getElementById(eleId).href=str1;}function CNNIC_RndNum(k){var rnd=""; for (var i=0;i < k;i++) rnd+=Math.floor(Math.random()*10); return rnd;}</script><a href="https://ss.cnnic.cn/verifyseal.dll?sn=2008070300100000031&ct=df&pa=294005" tabindex="-1" id="urlknet" target="_blank" rel="nofollow"> <img alt="&#x53EF;&#x4FE1;&#x7F51;&#x7AD9;" name="CNNIC_seal" border="true" data-lazyload="//img11.360buyimg.com/da/g8/M03/0C/0E/rBEHaFCFC5QIAAAAAAASVQX9RAYAACb2wHUV1kAABJt760.gif" width="108" height="40" oncontextmenu="return false;" onclick="CNNIC_change('urlknet')" /></a><a href="http://about.58.com/fqz/index.html" target="_blank" rel="nofollow"><img data-lazyload="//img12.360buyimg.com/da/g5/M02/0D/17/rBEIDE_nzcIIAAAAAAB30mYXo5QAACrhACj22IAAHfq378.png" width="108" height="40" alt="³¯ÑôÍøÂç¾¯²ì"></a><a href="https://search.szfw.org/cert/l/CX20120111001803001836" target="_blank" rel="nofollow"><img data-lazyload="//img13.360buyimg.com/da/20120221/112_40_WvArIl.png" width="112" height="40"></a></div>
+	</div>
+</div>
+ <script type="text/javascript" src="//misc.360buyimg.com/jdf/1.0.0/unit/libPath/1.0.0/libPath.js"></script>
+<script type="text/javascript" src="//wl.jd.com/wl.js"></script>
+</body>
+</html>
+
+ 
+
+13753527210
+
+{"area":"6","areaName":"É½Î÷","providerName":"ÒÆ¶¯","provider":1}
+
+13508433039
+
+
+
+18032067618
+
+18032067618
+
+13934035555
+
+15244745982
+
+13838384380
+
+15713586837
+
+13934035555
+
+18032067618
+
+h
+
+13934035555
+
+13508433039
+
+15713586837
+
+119
+
+13838384380
+
+110
+
+15810885650
+
+18273703200
+
+15244745982
+
+133
+
+13753527210
+
+13593030270
+
+13886047412
+
+15235350487
+
+13753315207
+
+13530445254
+
+12345678911
+
+12345678901
+
+110
+
+110
+
+123
+
+12345678912
+
+07911234
+
+18435994877
+
+12812812888
+
+18128128128
+
+18032067618
+
+dkfd
+
+120
+
+12345678990
+
+123456789987654
+
+ertyijok
+
+12345678900-
+
+0987654321	123
+
+q
+
+000000000000
+
+15235350487
+

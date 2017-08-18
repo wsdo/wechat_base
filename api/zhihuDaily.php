@@ -1,5 +1,5 @@
 <?php
-require_once('./api/Curl.php');
+// require_once('./api/Curl.php');
 // require('./config.php');
 
 /**
