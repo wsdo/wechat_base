@@ -1,5 +1,5 @@
 <?php
 
-$appid = 'wx43953f2495f6d1cc';
-$appsecret = '6f9962be39cf55d8c85fd0ae4ea0b4e7';
+$appid = 'wx0fe0851d8bcf3fe0';
+$appsecret = '71e3950a344fbc151481be4236c16329';
 

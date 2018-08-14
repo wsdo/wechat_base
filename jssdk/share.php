@@ -3,6 +3,7 @@ require_once "./config.php";
 require_once "jssdk.php";
 $jssdk = new JSSDK(Config::APPID, Config::APPSECRET);
 $signPackage = $jssdk->GetSignPackage();
+print_r($signPackage["signature"])
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -29,7 +30,7 @@ $signPackage = $jssdk->GetSignPackage();
 </body>
 <script type='text/javascript' src='//g.alicdn.com/sj/lib/zepto/zepto.min.js' charset='utf-8'></script>
 <script type='text/javascript' src='//g.alicdn.com/msui/sm/0.6.2/js/sm.min.js' charset='utf-8'></script>
-<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script src="http://res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>
 <script>
   /*
    * 注意：
@@ -42,6 +43,7 @@ $signPackage = $jssdk->GetSignPackage();
    * 邮件主题：【微信JS-SDK反馈】具体问题
    * 邮件内容说明：用简明的语言描述问题所在，并交代清楚遇到该问题的场景，可附上截屏图片，微信团队会尽快处理你的反馈。
    */
+
   wx.config({
     debug: true,
     appId: '<?php echo $signPackage["appId"];?>',

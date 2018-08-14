@@ -3,7 +3,7 @@ require('conf.php');
 require('Curl.php');
 $dbms='mysql';     //数据库类型
 $host='127.0.0.1'; //数据库主机名
-$dbName='web';    //使用的数据库
+$dbName='mifeng';    //使用的数据库
 $user='root';      //数据库连接用户名
 $pass='';          //对应的密码
 $dbport = '3306';  //端口
@@ -169,7 +169,7 @@ $cont = (array)json_decode($cont);
 $url = "https://api.weixin.qq.com/sns/userinfo?access_token={$cont['access_token']}&openid={$cont['openid']}&lang=zh_CN";
 $cont =  Curl::CurlGet($url);
 $user = (array)json_decode($cont);
-// var_dump($user['openid']);
+var_dump($user['nickname']);
 
 // require('db.php');
 
